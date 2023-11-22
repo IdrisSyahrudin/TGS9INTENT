@@ -1,4 +1,4 @@
-# TGs 9 INTENT
+# TGS 9 INTENT
 
 Hasil running app
 
